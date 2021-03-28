@@ -1,0 +1,13 @@
+2021/03/26-09:27:09.274 da0b Reusing MANIFEST /private/var/folders/4t/p4hcjcss46394s1krpp03bpr0000gn/T/flutter_tools.OpKg7z/flutter_tools_chrome_device.R4bWX5/Default/IndexedDB/https_looka.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/26-09:29:00.185 da0b Level-0 table #5: started
+2021/03/26-09:29:00.230 da0b Level-0 table #5: 1450986 bytes OK
+2021/03/26-09:29:00.267 da0b Delete type=0 #3
+2021/03/26-09:33:52.680 c29b Level-0 table #7: started
+2021/03/26-09:33:52.710 c29b Level-0 table #7: 1481069 bytes OK
+2021/03/26-09:33:52.746 c29b Delete type=0 #4
+2021/03/26-09:33:57.585 c29b Compacting 1@1 + 1@2 files
+2021/03/26-09:33:57.609 c29b Generated table #8@1: 208 keys, 394091 bytes
+2021/03/26-09:33:57.609 c29b Compacted 1@1 + 1@2 files => 394091 bytes
+2021/03/26-09:33:57.645 c29b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/26-09:33:57.646 c29b Delete type=2 #7
+2021/03/26-09:33:57.646 c29b Delete type=2 #5
